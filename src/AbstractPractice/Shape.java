@@ -1,4 +1,4 @@
-package Abstract;
+package AbstractPractice;
 
 public abstract class Shape {
     protected double radius;

@@ -1,4 +1,4 @@
-package Abstract;
+package AbstractPractice;
 
 public class Triangle extends Shape{
     @Override

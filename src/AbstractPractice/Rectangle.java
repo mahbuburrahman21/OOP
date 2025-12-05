@@ -1,4 +1,4 @@
-package Abstract;
+package AbstractPractice;
 
 public class Rectangle extends Shape {
     @Override
